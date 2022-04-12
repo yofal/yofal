@@ -1,5 +1,7 @@
 # Hi I'm Yofal, Welcome to my Github page!
 
+## short about me, I'm a:
+
 - 😺 catlover
 - 🧉 yerba mate drinker
 - 🏀 basketball player
