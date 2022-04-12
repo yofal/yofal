@@ -1,6 +1,6 @@
-# Hi I'm Yofal, Welcome to my Github page!
+# Hi I'm Yofal, Welcome to my Github page! 😊
 
-## short about me, I'm a:
+## Short about me, I'm a:
 
 - 😺 catlover
 - 🧉 yerba mate drinker
