@@ -1,4 +1,4 @@
-# Hi I'm Yofal, Welcome to my Github page! 😊
+# Hi I'm Yofal, welcome to my Github page! 😊
 
 ## Short about me, I'm a:
 
