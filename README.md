@@ -1,5 +1,4 @@
-# Hi I'm Yofal, a web developer with an insatiable curiosity for learning new things
-## Welcome to my Github page! 😊
+# Hi I'm Yofal, Welcome to my Github page!
 
 - 😺 catlover
 - 🧉 yerba mate drinker
